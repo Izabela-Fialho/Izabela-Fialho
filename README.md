@@ -1,5 +1,5 @@
 ## Olá, eu sou a Izabela Fialho 👋
-<p style="text-align: center;"> Codificando os sonhos em linhas de sucesso: A magia da tecnologia ganha vida aqui! </p>
+<h1 align="center"> Codificando os sonhos em linhas de sucesso: A magia da tecnologia ganha vida aqui!</h1>
 
 <!--
 **Izabela-Fialho/Izabela-Fialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
