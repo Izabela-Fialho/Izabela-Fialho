@@ -1,5 +1,6 @@
 ## Olá, eu sou a Izabela Fialho 👋
-<p > Codificando os sonhos em linhas de sucesso: A magia da tecnologia ganha vida aqui!</p>
+<p > Seja bem-vindo(a) ao meu GitHub! Aqui, meu objetivo é transformar ideias em realidade através de projetos inovadores. Com habilidades em diversas linguagens de programação e uma abordagem criativa, busco trazer a magia da tecnologia à vida. Junte-se a mim nesta aventura de codificar juntos e criar um futuro brilhante.</p>
+<b> Transformando sonhos em código vivo: Acesse meu GitHub e embarque nesta aventura tecnológica! </b> 
 
 <!--
 **Izabela-Fialho/Izabela-Fialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
